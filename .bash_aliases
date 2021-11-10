@@ -5,6 +5,7 @@ alias gaa='git add -A'
 alias gr='git reset --'
 alias gb='git branch'
 alias gc='git checkout'
+alias gl='git log'
 
 # Dotfiles
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
