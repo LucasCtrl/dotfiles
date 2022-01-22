@@ -8,5 +8,6 @@ truncate_to_repo = false
 [directory.substitutions]
 "~/github" = "github.com"
 
+
 [git_branch]
 symbol = "שׂ "
